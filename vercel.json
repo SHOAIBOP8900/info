@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "eyecon_flask_api.py"
+      "dest": "app.py"
     }
   ]
 }
